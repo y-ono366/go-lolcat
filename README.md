@@ -1,6 +1,6 @@
-### make lolcat from golang
+# make lolcat from golang
 
-#### build and install
+### How to build and install
 1. clone repository
 ```
 $ git clone https://github.com/y-ono366/gololcat.git
