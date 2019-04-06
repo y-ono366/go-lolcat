@@ -10,4 +10,6 @@ $ git clone https://github.com/y-ono366/gololcat.git
 $ cd gololcat
 $ go install
 ```
-![captcha](https://github.com/y-ono366/gololcat/blob/images/captcha.PNG?raw=true)
+<p align="center">
+  <img src="https://github.com/y-ono366/gololcat/blob/images/captcha.PNG" width="600" height="400" />
+</p>
